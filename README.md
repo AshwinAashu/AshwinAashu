@@ -1,4 +1,4 @@
-<h1><a href="https://www.dowhileblog.com">👋 Hi, I’m Ashwin ! </a> </h1>
+👋<h1><a href="https://www.dowhileblog.com"> Hi, I’m Ashwin ! </a> </h1>
 
 HTML | CSS | JavaScript | ReactJS | NodeJS | Python
 
