@@ -1,11 +1,11 @@
 <h1><a href="https://www.dowhileblog.com"> 👋  Hi, I’m Ashwin ! </a> </h1>
 
-HTML | CSS | JavaScript | ReactJS | NodeJS | Python
+HTML | CSS | JavaScript | ReactJS | NodeJS | Python | Spring Boot
 
 
 <ul>
   <li> Primary coding language : JavaScript </li>
-  <li> Currently Learning : ReactJS </li>
+  <li> Currently Learning : Spring Boot </li>
   <li> Things we can talk about other than coding : Books, Guitars, Bikes , Travel </li>
   <li> If I didn't code for a living, I'd be a photographer </li>
   <li> Interested in networking with like minded and passionate people </li>
