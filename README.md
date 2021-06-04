@@ -6,6 +6,8 @@ HTML | CSS | JavaScript | ReactJS | NodeJS | Python | Spring Boot
 <ul>
   <li> Primary coding language : JavaScript </li>
   <li> Currently Learning : Spring Boot </li>
+  <li> Gold Badge and 5 Star Rating on HackerRank in 10 Days of JavaScript</li>
+  <li> Gold Badge and 5 Star Rating on HackerRank in Python Programming</li>
   <li> Things we can talk about other than coding : Books, Guitars, Bikes , Travel </li>
   <li> If I didn't code for a living, I'd be a photographer </li>
   <li> Interested in networking with like minded and passionate people </li>
