@@ -1,5 +1,9 @@
 <h1><a href="https://www.dowhileblog.com"> 👋  Hi, I’m Ashwin ! </a> </h1>
 
+I am a passionate web developer who believes in 'hack it till you crack it'. I am amazed by web development, blockchain, machine learning and IoT. They say a developer's primary social media should be github and not instagram which is why I quit instagram to focus on the explosive growth of my skillsets. 
+
+<h3> I'm using </h3>
+
 HTML | CSS | JavaScript | ReactJS | NodeJS | Python | Spring Boot
 
 
