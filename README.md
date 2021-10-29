@@ -1,8 +1,11 @@
 <h1><a href="https://www.dowhileblog.com"> 👋  Hi, I’m Ashwin ! </a> </h1>
 
-I am a passionate web developer who believes in 'hack it till you crack it'. I am amazed by web development, blockchain, machine learning and IoT. They say a developer's primary social media should be github and not instagram which is why I quit instagram to focus on the explosive growth of my skillsets. 
+I am a passionate web developer who believes in 'hack it till you crack it'. I am amazed by web development, blockchain, machine learning and IoT. I work primarily with ReactJS and have been using React Native for my personal projects. I believe in progress over perfection so I try to learn new concepts by toying around with small projects.
 
-<h3> I'm using </h3>
+
+My priority for the next two years is to understand the nuances of web development and get exposure to technologies such as cloud and DevOps. 
+
+<h3> I'm currently working with </h3>
 
 HTML | CSS | JavaScript | ReactJS | NodeJS | Python | Spring Boot
 
@@ -18,7 +21,9 @@ HTML | CSS | JavaScript | ReactJS | NodeJS | Python | Spring Boot
  </ul>
  
  
- <h4> Connect with me : <a href="https://www.dowhileblog.com"> Blog </a> || <a href="https://www.linkedin.com/in/ashwinaashu/">LinkedIn </a> || <a href="https://twitter.com/tweetsofashwin"> Twitter </a> || <a href="https://www.hackerrank.com/ashwinaashu13"> HackerRank </a> || <a href="https://www.instagram.com/dowhileblog/">Instagram </a> || <a href="https://linktr.ee/ashwinaashu"> LinkTree </a> 
+ <h4> 
+<!--   Connect with me : <a href="https://www.dowhileblog.com"> Blog </a> ||  -->
+  <a href="https://www.linkedin.com/in/ashwinaashu/">LinkedIn </a> || <a href="https://twitter.com/tweetsofashwin"> Twitter </a> || <a href="https://www.hackerrank.com/ashwinaashu13"> HackerRank </a> || <a href="https://linktr.ee/ashwinaashu"> LinkTree </a> 
  
     
 
