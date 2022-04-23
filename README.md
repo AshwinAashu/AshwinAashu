@@ -10,7 +10,7 @@ I've 1 year of experience with React JS. I am currently working as a React Nativ
 *   🖥️  See my portfolio at [CodeKomet](http://codekomet.com/)
 *   ✉️  You can contact me at [ashwinaashu13@gmail.com](mailto:ashwinaashu13@gmail.com)
 *   🧠  I'm learning React Native
-*   ⚡  Open to pair coding<br><br><a href="https://www.twitter.com/codeKomet" target="_blank" rel="noreferrer"><img
+*   ⚡  Open to pair coding<br><br> ### Socials <br><a href="https://www.twitter.com/codeKomet" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/codeKomet?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/AshwinAashu" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AshwinAashu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><p align="left">
