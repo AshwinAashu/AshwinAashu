@@ -4,7 +4,7 @@ Hi 👋 My name is Ashwin Aashu
 React / React Native Developer
 ------------------------------
 
-I've 1 year of experience with React JS. I am currently working as a React Native developer. I have also worked wtih SpringBoot and MongoDB in my previous role. I am keen on learning new technologies such as Next.JS , Node JS, SpringBoot , AWS among others.
+I am a React native developer with 1 year of experience using React JS. I am currently working as a React Native developer. I have also worked wtih SpringBoot and MongoDB in my previous role. I am keen on learning new technologies such as Next.JS , Node JS, SpringBoot , AWS among others.
 
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at [CodeKomet](http://codekomet.com/)
