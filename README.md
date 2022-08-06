@@ -9,7 +9,7 @@ I am a React native developer with 1 year of experience using React JS. I am cur
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at [CodeKomet](http://codekomet.com/)
 *   ✉️  You can contact me at [ashwinaashu13@gmail.com](mailto:ashwinaashu13@gmail.com)
-*   🧠  I'm learning React Native
+*   🧠  I'm learning Kotlin
 *   ⚡  Open to pair coding<br><br> <b>Socials</b> <br><a href="https://www.twitter.com/codeKomet" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/codeKomet?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/AshwinAashu" target="_blank" rel="noreferrer"><img
