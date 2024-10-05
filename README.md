@@ -58,12 +58,11 @@ I am a React/React Native developer with 3.0 years of experience. I am passionat
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="36" height="36">
+  <path d="M365.7 296.4c-49.5 66.1-155.9 43.7-223.7 47c0 0-12.1 0.8-24.1 2.5c0 0 4.6-2.1 10.4-4.2c47.8-16.6 70.3-20 99.4-34.9c54.5-27.9 108.9-89 119.8-152.2c-20.8 60.7-84 113.1-141.4 134.3c-39.5 14.6-110.6 28.7-110.6 28.7l-2.9-1.7c-48.2-23.7-49.9-128.5 38.3-162.2c38.7-15 75.3-6.7 117.3-16.6c44.5-10.4 96.1-43.7 116.8-87.3C388.1 120.1 416.4 229 365.7 296.4Z" fill="#6DB33F"/>
+</svg>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
