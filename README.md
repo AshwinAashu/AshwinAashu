@@ -4,14 +4,14 @@ Hi 👋 My name is Ashwin Aashu
 React / React Native Developer
 ------------------------------
 
-I am a React/React Native developer with 3.0 years of experience. I am passionate about mobile and web development. Apart from frontend development, I have also worked with SpringBoot and MongoDB in my previous roles. Currently, I am working with React, React Native, Node.js, and MongoDB.
+I am a React/React Native developer with 3.0 years of experience. I am passionate about mobile and web development.
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [CodeKomet](http://codekomet.com/)
 * ✉️  You can contact me at [dev.ashwinaashu@gmail.com](mailto:ashwinaashu13@gmail.com)
 * 🧠  I'm currently learning SpringBoot and PostgreSQL
 * 🐋  Exploring Docker and Kubernetes
-* 🤖  Hot cakes I’m interested in: Machine Learning, NLP, and Robotics
+* 🤖  Hot cakes I’m interested in: Machine Learning, NLP and Robotics
 * ⚡  Open to pair coding and collaborations
 
 <br><br> 
@@ -42,4 +42,6 @@ I am a React/React Native developer with 3.0 years of experience. I am passionat
 
 #### Currently Learning:
 - SpringBoot, PostgreSQL
+
+
 
