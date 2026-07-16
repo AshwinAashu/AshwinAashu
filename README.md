@@ -3,7 +3,7 @@
 
 **Software Engineer · 5 years of experience**
 
-I build end-to-end products — from responsive, accessible frontends to distributed backend systems. Currently expanding into full-stack architecture with a focus on data-heavy applications and cloud infrastructure. Toying around with agentic AI.
+I build end-to-end products — from responsive, accessible frontends to distributed backend systems. Currently expanding into Java full-stack role with a focus on data-heavy applications and cloud infrastructure. Toying around with agentic AI.
 
 ---
 
